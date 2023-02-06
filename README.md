@@ -10,6 +10,6 @@ Sandboxes are great, but you can alsodo your ALX assessments on your local compu
 
 - What is Ubuntu
 
-_ What does "Ubuntu" mean
+- What does "Ubuntu" mean
 
 - What does the command [uname] do
